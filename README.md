@@ -353,7 +353,7 @@
 
 # <strong>Reference</strong>  
 
-- [이것이 자바다](https://youtu.be/Sos11X7wy1M){:target="_blank"}  
+- <a href="https://youtu.be/Sos11X7wy1M" target="_blank">이것이 자바다</a>
 
 
 
