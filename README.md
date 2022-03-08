@@ -346,6 +346,32 @@
 
 19-9. UDP 채널  
 
+<br>  
+
+## Project1  
+
+> 학생 성적 관리 프로그램  
+
+- Admin 클래스는 관리자 아이디, 비밀번호 저장.  
+
+- Student 클래스는 학생 학번과 이름 저장. (키로 사용됨)  
+
+- Score 클래스는 학생의 국어, 영어, 수학 점수를 입력하면 합계, 평균 계산.  
+
+- Main 클래스  
+
+  - 관리자 아이디, 비밀번호로 로그인  
+
+  - 학생등록, 성적확인, 성적분석, 관리자아이디변경, 종료  
+
+  - HashMap 사용해서 데이터 저장  
+
+  - List 형태로 Map 을 가지고 온 후, comparator 인터페이스를 사용해서 합계를 기준으로 오름차순 정렬  
+
+`참고 사이트`  
+
+- <a href="https://velog.io/@cgw0519/Java-HashMap-Value-%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0" target="_blank">HashMap Value 기준으로 정렬하기</a>
+
 
 
 
